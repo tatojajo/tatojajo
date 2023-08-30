@@ -23,7 +23,7 @@ I'm always eager to learn more. My current focus includes:
 
 You can find me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/tato-jajanidze/])
+- [LinkedIn](https://www.linkedin.com/in/tato-jajanidze/)
 - **Email:** tatojajanidze@gmail.com
 
   Feel free to connect and reach out. Let's code together!
